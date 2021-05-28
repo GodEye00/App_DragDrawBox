@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<andriod.bignerdranch.dragdrawbox.BoxDrawingView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drag_and_draw_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+
